@@ -1,0 +1,25 @@
+.container{
+    width: 700px;
+    text-align: center;
+}
+h2{
+    background-color: #008b8b;
+    color: #ffffff;
+}
+.text-low{
+    display: flex;
+}
+.text-low dt{
+    width: 150px;
+    text-align: end;
+}
+.text-low dd{
+    width: 50%;
+    text-align: start;
+}
+.btn{
+    width: 60px;
+}
+#log{
+    height: 30%;
+}
